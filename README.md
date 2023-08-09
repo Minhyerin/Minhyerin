@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhyerin&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=Css&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 -  👋 Hi, I’m @Minhyerin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
