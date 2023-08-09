@@ -11,7 +11,7 @@
 <div>
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobephotoshop-F24E1E?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/>
 </div>
 
 -  👋 Hi, I’m @Minhyerin
