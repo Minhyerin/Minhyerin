@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=transperent&color=auto&height=200&section=header&text=안녕하세요!&desc=프론트엔드%개발자를%희망하는%민혜린입니다.&fontSize=24)
   <div align=center>
     <h3>Tech</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
