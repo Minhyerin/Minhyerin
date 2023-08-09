@@ -14,7 +14,7 @@ Tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhyerin&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhyerin&layout=compact"><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhyerin&show_icons=true&theme=radical)
 <!---
