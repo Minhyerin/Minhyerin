@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyerin%29Github&fontSize=40&fontAlignY=40&fontAlign=80)
+<div align=center>
+  <h2>안녕하세요! 프론트엔드 개발자를 꿈꾸는 민혜린입니다. 😊</h2>
+</div>
   <div align=center>
     <h3>Tech</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
