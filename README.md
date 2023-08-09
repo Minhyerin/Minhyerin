@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyerin%29Github&fontSize=40&fontColor=d6ace6&fontAlignY=40&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyerin%29Github&fontSize=40&fontAlignY=40&fontAlign=80)
   <div align=center>
     <h3>Tech</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
