@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyerin%29Github&fontSize=40&fontAlignY=40&fontAlign=80)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhyerin&count_bg=%23704E03&title_bg=%23F7D319&icon=&icon_color=%23EBEBEB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align=center>
   <h2>안녕하세요! 프론트엔드 개발자를 꿈꾸는 민혜린입니다. 😊</h2>
 </div>
@@ -18,4 +19,3 @@
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   </div>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhyerin&count_bg=%23704E03&title_bg=%23F7D319&icon=&icon_color=%23EBEBEB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
